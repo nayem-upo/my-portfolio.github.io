@@ -5,7 +5,6 @@
 }
 
 /* Header and navigation styles */
-
 .nav-title {
   font-weight: 800;
   font-size: 45px;
@@ -15,7 +14,6 @@
 nav {
   justify-content: space-between;
   display: flex;
-
   padding: 50px 226px;
 }
 nav ul {
@@ -51,7 +49,6 @@ nav li {
 }
 .hi {
   color: #474747;
-
   font-style: normal;
   font-weight: 600;
   font-size: 40px;
@@ -73,7 +70,6 @@ nav li {
   margin-bottom: 20px;
   font-family: "Open Sans";
   font-style: normal;
-
   font-size: 44px;
 }
 .btn1 {
@@ -103,6 +99,7 @@ nav li {
   background-repeat: no-repeat;
   background-position: 635px 266px, 46px;
 }
+
 /* Main sectrion */
 main {
   background: #fff8f3;
@@ -110,6 +107,7 @@ main {
   max-width: 1140px;
   margin: 0px auto;
 }
+
 /* About section styles */
 .about {
   text-align: center;
@@ -188,7 +186,6 @@ th {
   gap: 18px;
   justify-content: space-around;
   display: flex;
-
   padding: 0px 110px;
 }
 .skill-description {
@@ -204,7 +201,112 @@ th {
   text-align: center;
   margin-bottom: 80px;
 }
+
 /* Resume Styles */
-.resume1{
+.resume {
+  font-family: sans-serif;
+}
+.resume1 {
+  justify-content: space-between;
   display: flex;
+  padding: 0 240px;
+  gap: 40px;
+}
+.resume-title {
+  margin-bottom: 20px;
+  color: #474747;
+}
+.resume-description {
+  color: #757575;
+}
+.h4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #757575;
+  font-weight: 500px;
+}
+.resume-sub-title {
+  color: #757575;
+}
+.line {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  gap: 20px;
+}
+.btn3 {
+  font-family: "Open sans";
+  font-weight: 100;
+  color: #ffffff;
+  height: 55px;
+  border-radius: 5px;
+  background-color: #fd6e0a;
+  border: none;
+  padding: 15px 36px;
+}
+.resume-button {
+  margin-top: 50px;
+  text-align: center;
+  margin-bottom: 105px;
+}
+.connect {
+  margin-bottom: 50px;
+  color: #181818;
+  font-family: sans-serif;
+  padding: 0px 240px;
+}
+.connect1 {
+  padding-bottom: 100px;
+  background: #fff8f3;
+  display: flex;
+}
+.connect3 {
+  margin-top: 120px;
+  color: #181818;
+  font-family: sans-serif;
+  padding: 0px 70px;
+}
+.connect-des {
+  font-family: sans-serif;
+  text-align: left;
+  padding-left: 240px;
+  margin-bottom: 20px;
+  color: #474747;
+}
+.tdeco {
+  align-items: flex-start;
+  padding: 5px;
+  text-decoration: none;
+}
+.bcolor {
+  margin-top: 120px;
+}
+.form {
+  padding-left: 25px;
+  border-radius: 5px;
+  border: 0;
+  margin-bottom: 20px;
+  margin-left: 72px;
+  width: 350px;
+  height: 50px;
+}
+.message {
+  padding-top: 18px;
+  padding-left: 25px;
+  border: 0;
+  font-family: sans-serif;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  margin-left: 72px;
+  width: 350px;
+  height: px;
+}
+.buttonend {
+  margin-left: 72px;
+  font-family: sans-serif;
+  color: #ffffff;
+  height: 55px;
+  border-radius: 5px;
+  background-color: #fd6e0a;
+  border: none;
+  padding: 18px 36px;
 }
