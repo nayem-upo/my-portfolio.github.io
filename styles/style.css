@@ -43,7 +43,7 @@ nav li {
 .banner {
   color: #181818;
   font-family: sans-serif;
-  margin: 0px 230px;
+  margin: 0px 224px;
   align-items: center;
   display: flex;
 }
@@ -74,13 +74,13 @@ nav li {
 }
 .btn1 {
   font-family: "Open sans";
-  font-weight: 100;
+  font-weight: 10;
   color: #ffffff;
   height: 55px;
   border-radius: 5px;
   background-color: #fd6e0a;
   border: none;
-  padding: 15px 36px;
+  padding: 15px 30px;
 }
 .btn2 {
   font-family: "Open sans";
